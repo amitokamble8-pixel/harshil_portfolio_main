@@ -87,25 +87,6 @@ export const EXPERIENCE = [
     tags: ["Behavioral Science", "Research", "Decision-Making"],
     featured: true,
   },
-  {
-    slug: "fire-house-explorer",
-    role: "Explorer",
-    org: "Fire House Explorers",
-    logo: "",
-    location: "New Jersey, USA",
-    dates: "2023 – Present",
-    meta: "2023 – Present · New Jersey, USA · 400+ volunteer hours",
-    badge: "Service",
-    desc: "Hands-on emergency response training and support for local first responders, with 400+ volunteer hours logged.",
-    bullets: [
-      "Completed hands-on training in fire safety, search and rescue, emergency protocols, and basic life support",
-      "Supported local first responders across 400+ volunteer hours",
-      "Earned FEMA IS-100C, IS-700B, IS-800D, Ohio Youth Fire/EMT Academy, and Emergency CPR credentials",
-      "Gained firsthand exposure to environments where preparation, communication, and responsible decision-making are essential",
-    ],
-    tags: ["Emergency Response", "Service", "Training"],
-    featured: true,
-  },
 ];
 
 /* ---- Projects ---- */
