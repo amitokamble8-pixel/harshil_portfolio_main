@@ -200,7 +200,9 @@ export const VOLUNTEER = {
     {
       name: "Fire House Explorers",
       role: "Explorer · Since 2023",
-      desc: "Completed hands-on training in fire safety, search and rescue, emergency protocols, and basic life support while supporting local first responders across 400+ volunteer hours. Certifications include FEMA IS-100C, IS-700B, IS-800D, Ohio Youth Fire/EMT Academy, and Emergency CPR. The experience has given me firsthand exposure to environments where preparation, communication, and responsible decision-making are essential.",
+      desc: ""Designed and carried out a behavioral science research project investigating human behavior through structured research",
+      "Developed evidence-based conclusions from the study's findings",
+      "Placed 2nd in the District STEM Behavioral Science Competition",
     },
   ],
 };
