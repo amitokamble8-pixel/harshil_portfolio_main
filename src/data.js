@@ -216,11 +216,25 @@ export const VOLUNTEER = {
     { value: "5", label: "Emergency Certifications" },
   ],
   orgs: [
-    {
-      name: "Fire House Explorers",
-      role: "Explorer · Since 2023",
-      desc: "Completed hands-on training in fire safety, search and rescue, emergency protocols, and basic life support while supporting local first responders across 400+ volunteer hours. Certifications include FEMA IS-100C, IS-700B, IS-800D, Ohio Youth Fire/EMT Academy, and Emergency CPR. The experience has given me firsthand exposure to environments where preparation, communication, and responsible decision-making are essential.",
-    },
+      {
+    slug: "fire-house-explorer",
+    role: "Explorer",
+    org: "Fire House Explorers",
+    logo: "",
+    location: "New Jersey, USA",
+    dates: "2023 – Present",
+    meta: "2023 – Present · New Jersey, USA · 400+ volunteer hours",
+    badge: "Service",
+    desc: "Hands-on emergency response training and support for local first responders, with 400+ volunteer hours logged.",
+    bullets: [
+      "Completed hands-on training in fire safety, search and rescue, emergency protocols, and basic life support",
+      "Supported local first responders across 400+ volunteer hours",
+      "Earned FEMA IS-100C, IS-700B, IS-800D, Ohio Youth Fire/EMT Academy, and Emergency CPR credentials",
+      "Gained firsthand exposure to environments where preparation, communication, and responsible decision-making are essential",
+    ],
+    tags: ["Emergency Response", "Service", "Training"],
+    featured: true,
+  },
   ],
 };
 
