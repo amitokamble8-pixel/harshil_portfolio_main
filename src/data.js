@@ -38,7 +38,7 @@ export const NAV = [
     label: "Experience",
     children: [
       { label: "Research & Experience", to: "/work" },
-      { label: "Projects", to: "/projects" },
+
       { label: "Academic Interests", to: "/publications" },
     ],
   },
