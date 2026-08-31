@@ -197,7 +197,6 @@ export const VOLUNTEER = {
     { value: "5", label: "Emergency Certifications" },
   ],
   orgs: [
-      {
     slug: "fire-house-explorer",
     role: "Explorer",
     org: "Fire House Explorers",
@@ -215,7 +214,6 @@ export const VOLUNTEER = {
     ],
     tags: ["Emergency Response", "Service", "Training"],
     featured: true,
-  },
   ],
 };
 
