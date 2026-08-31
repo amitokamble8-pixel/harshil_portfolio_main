@@ -91,16 +91,6 @@ export function Home() {
       </section>
 
       <section className="section">
-        <SectionHead title="Projects" eyebrow="Built & Published" />
-        <div className="grid-2">
-          {PROJECTS.filter((p) => p.featured).map((p, i) => (
-            <Reveal key={p.name} delay={i * 90}><ProjectCard p={p} /></Reveal>
-          ))}
-        </div>
-        <MoreLink to="/projects">All projects</MoreLink>
-      </section>
-
-      <section className="section">
         <SectionHead
           title="Skills"
           eyebrow={SKILLS.map((s) => s.group).join(" · ")}
