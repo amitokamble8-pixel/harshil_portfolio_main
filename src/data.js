@@ -38,7 +38,6 @@ export const NAV = [
     label: "Experience",
     children: [
       { label: "Research & Experience", to: "/work" },
-
       { label: "Academic Interests", to: "/publications" },
     ],
   },
@@ -300,7 +299,6 @@ export const FOOTER_NAV = [
   { label: "Home", to: "/" },
   { label: "About", to: "/about" },
   { label: "Research & Experience", to: "/work" },
-  { label: "Projects", to: "/projects" },
   { label: "Academic Interests", to: "/publications" },
   { label: "Achievements", to: "/awards" },
   { label: "Service & Leadership", to: "/volunteering" },
